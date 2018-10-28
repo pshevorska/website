@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "//example.org"
+baseURL = "https://lianapshevorska.com"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Liana Pshevorska"
 theme = "split"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -9,15 +9,15 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2018 Your Name"
+copyright = "&copy;2018 Liana Pshevorska"
 
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
+  author = "Liana Pshevorska"
   description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
   shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  twitterHandle = ""
 
   # Favicon
   favicon = "favicon.ico"
