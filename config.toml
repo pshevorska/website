@@ -60,7 +60,7 @@ copyright = "&copy;2018 Liana Pshevorska"
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Social"
+      heading = "Research"
 
       [[params.links.list2.link]]
         text = "Twitter"
@@ -77,11 +77,11 @@ copyright = "&copy;2018 Liana Pshevorska"
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "Teaching"
 
       [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
+        text = "Altérité"
+        url = "http://fantastiqueavignon.weebly.com"
 
       [[params.links.list3.link]]
         text = "Link Two"
