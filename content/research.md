@@ -7,16 +7,16 @@ While many studies in translingualism focus on the interaction between several l
 
 
 #### <span style="color:#47bec7">Publications</span>
-*"L’Ignorance de Milan Kundera: Pour en finir avec le Grand Retour odysséen?"*<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;"La francophonie translingue," A. Ausoni (dir.), *Interfrancophonies.* n. 10, 2018<br>
+*"L’Ignorance de Milan Kundera: Pour en finir avec le Grand Retour odysséen?"*    
+    &nbsp;&nbsp;&nbsp;&nbsp;"La francophonie translingue," A. Ausoni (dir.), *Interfrancophonies.* n. 10, 2018    
     &nbsp;&nbsp;&nbsp;&nbsp;(forthcoming, peer-reviewed)
 
-*"Comment ils se voient? Les jeux exophones de Vassilis Alexakis’ and d’Andreï Makine"*<br>
+*"Comment ils se voient? Les jeux exophones de Vassilis Alexakis’ and d’Andreï Makine"*    
     &nbsp;&nbsp;&nbsp;&nbsp;*Intercâmbio : Revue d’Études Françaises. French Studies Journal* pp. 103, 2018  ([pdf]( http://ler.letras.up.pt/uploads/ficheiros/16124.pdf ))
 
 #### <span style="color:#47bec7">Book Reviews</span>
-*Evil: A History in Modern French Literature and Thought.* by Damian Catani.<br>
+*Evil: A History in Modern French Literature and Thought.* by Damian Catani.    
     &nbsp;&nbsp;&nbsp;&nbsp;*AmeriQuests: Nature, Law and Society*&nbsp; 11:1, 2014 ([link]( http://www.ameriquests.org/index.php/ameriquests/article/view/3924 )) 
 
-*Gender in Late Medieval and Early Modern Europe.* ed. by M. G. Murayeva, R. M. Toivo.<br>
+*Gender in Late Medieval and Early Modern Europe.* ed. by M. G. Murayeva, R. M. Toivo.    
     &nbsp;&nbsp;&nbsp;&nbsp;*MLN*, vol. 129 no. 5, pp. 1244-1247, 2014
