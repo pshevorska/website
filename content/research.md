@@ -8,8 +8,7 @@ While many studies in translingualism focus on the interaction between several l
 
 #### <span style="color:#47bec7">Publications</span>
 *"L’Ignorance de Milan Kundera: Pour en finir avec le Grand Retour odysséen?"*    
-    &nbsp;&nbsp;&nbsp;&nbsp;"La francophonie translingue," A. Ausoni (dir.), *Interfrancophonies.* n. 10, 2018    
-    &nbsp;&nbsp;&nbsp;&nbsp;(forthcoming, peer-reviewed)
+    &nbsp;&nbsp;&nbsp;&nbsp;"La francophonie translingue," A. Ausoni (dir.), *Interfrancophonies.* n. 9, 2018 ([pdf]( http://interfrancophonies.org/images/pdf/numero-9/1_IF9_2018_PHSEVORSKAYA.pdf ))
 
 *"Comment ils se voient? Les jeux exophones de Vassilis Alexakis’ and d’Andreï Makine"*    
     &nbsp;&nbsp;&nbsp;&nbsp;*Intercâmbio : Revue d’Études Françaises. French Studies Journal* pp. 103, 2018  ([pdf]( http://ler.letras.up.pt/uploads/ficheiros/16124.pdf ))
