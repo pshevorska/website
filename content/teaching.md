@@ -1,5 +1,5 @@
 +++
-title = "Princeton University Department of French & Italian"
+title = "United States Military Academy at West Point Department of Foreign Languages"
 tagline = "Liana Pshevorska"
 +++
 
