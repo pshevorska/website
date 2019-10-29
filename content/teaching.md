@@ -3,6 +3,13 @@ title = "United States Military Academy at West Point Department of Foreign Lang
 tagline = "Liana Pshevorska"
 +++
 
+#### <span style="color:#47bec7">United States Military Academy at West Point | Instructor</span>
+
+Beginner French I & II  <span style="float:right;">Fall 2019 | Spring 2020</span>  
+French Literature from the Middle Ages to the Revolution (Guest Lecturer) <span style="float:right;">Fall 2019</span>  
+Errant Paths and Voyages: French Literature from <span style="float:right;">Spring 2020</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;Romanticism to Twitterature 
+
 #### <span style="color:#47bec7">Princeton University | Language Instructor</span>
 
 Beginner French <span style="float:right;">Fall 2014</span>  
