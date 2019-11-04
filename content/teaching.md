@@ -22,7 +22,7 @@ Intermediate/Advanced French <span style="float:right;">Spring 2016 | Fall 2017<
 
 Atelier d’écriture : Odyssées modernes <span style="float:right;">Summer 2008</span>   
 Grammaire avancée <span style="float:right;">Summers 2016 | 2017</span>   
-Altérité : le merveilleux, le fantastique, le surréaliste <span style="float:right;">Summer 2015</span>   
+<a href="https://fantastiqueavignon.weebly.com" target="_blank">Altérité : le merveilleux, le fantastique, le surréaliste</a> <span style="float:right;">Summer 2015</span>   
 
 - Designed syllabi and taught three original courses in advanced French grammar, writing, and literature
 - Created student course packs and materials for instruction
