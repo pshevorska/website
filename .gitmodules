@@ -1,7 +1,7 @@
 [submodule "themes/split"]
 	path = themes/split
-	url = git@github.com-pshevorska:pshevorska/split.git
+	url = git@github.com:pshevorska/split.git
 [submodule "public"]
 	path = public
-	url = git@github.com-pshevorska:pshevorska/pshevorska.github.io.git
+	url = git@github.com:pshevorska/pshevorska.github.io.git
 	branch = master
