@@ -9,7 +9,7 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS"]
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2019 Liana Pshevorska"
+copyright = "&copy;2021 Liana Pshevorska"
 
 [params]
 
@@ -64,3 +64,8 @@ copyright = "&copy;2019 Liana Pshevorska"
   # Please keep the original attribution link when using for your own project.
   # If you'd like to use the template without the attribution, you can check out
   # the license option via the template author's website: https://onepagelove.com/split
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
