@@ -30,7 +30,7 @@ and the University of Arizona. From 2015 to 2018, she taught French/Francophone 
 and creative writing in Bryn Mawr College’s summer study abroad program (Institut d’Avignon).
 
 
-Over the last two years, Liana was course director for the two-semester  
+Over the last two years, Liana was course director for the two-semester 
 Elementary French I & II sequence at West Point. In this role, she implemented a new textbook, 
 developed new pedagogical materials (exams, syllabi, projects), and provided training and mentorship 
 to junior instructors who teach 130 cadets across 8 sections. In addition to basic language courses, 
