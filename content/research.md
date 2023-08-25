@@ -17,23 +17,26 @@ While many studies in translingualism focus on the interaction between several l
 
 #### <span style="color:#47bec7">Articles</span>
 
-“Unsettling Closeness, Unsettled Memories: War Trauma and Identity Conflict in Nancy Huston’s *L’Empreinte de l’ange.*” 
-    &nbsp;&nbsp;&nbsp;&nbsp; *Contemporary French & Francophone Studies (CF&FS)* special volume (under review).
+“Le fransè ke chparl ègzist”: Translanguaging in the Work of Katalin Molnár,”
+  &nbsp;&nbsp;&nbsp;&nbsp; *Literary Multilingualism Studies,* special issue of *Journal of Literary Multilingualism* (upcoming 2023)
 
+“Unsettling Closeness, Unsettled Memories: War Trauma and Identity Conflict in Nancy Huston’s *L’Empreinte de l’ange.*” 
+    &nbsp;&nbsp;&nbsp;&nbsp; *The French Review*, vol. 96, no. 4, 2023 ([pdf]( https://muse.jhu.edu/pub/1/article/888168/pdf ))
 
 “*L’Ignorance de Milan Kundera*: Pour en finir avec le Grand Retour odysséen.”    
-    &nbsp;&nbsp;&nbsp;&nbsp; "La francophonie translingue," A. Ausoni (dir.), *Interfrancophonies.* n. 9, 2018 ([pdf]( http://interfrancophonies.org/images/pdf/numero-9/1_IF9_2018_PHSEVORSKAYA.pdf ))
+    &nbsp;&nbsp;&nbsp;&nbsp; *La francophonie translingue,* special issue of *Interfrancophonies.* no. 9, 2018 ([pdf]( http://interfrancophonies.org/images/pdf/numero-9/1_IF9_2018_PHSEVORSKAYA.pdf ))
 
-“Inside the Frame: Hospitality in Neyestani’s *Short Guide to Being the Perfect Political Refugee.*” (in progress)
+“Through the Translingual Lens: Persian Calligraphy in Mana Neyestani’s *L’Araignée de Mashhad.*”
+    &nbsp;&nbsp;&nbsp;&nbsp; *Translingual Writing in French / Translingual French Literature,* special issue of *Contemporary French and Francophone Studies: SITES,* 2023 (under peer review).
 
-“Ethics and Aesthetics of Katalin Molnár’s *Translingual Literature.*” (in progress)
+“Off the Map: Spatialization of the Self in Vassilis Alexakis’ *La Langue maternelle*” (in progress).
 
 
 #### <span style="color:#47bec7">Conference Proceedings</span>
 
 
 “Comment ils se voient? Les jeux exophones de Vassilis Alexakis’ and d’Andreï Makine.”
-    &nbsp;&nbsp;&nbsp;&nbsp; *Lasemaine.fr 2017 : FLUP 20-24 mars*, Porto, Universidade de Porto. Faculdade de Letras, 2018, pp. 103-119. ([pdf]( http://ler.letras.up.pt/uploads/ficheiros/16124.pdf ))
+    &nbsp;&nbsp;&nbsp;&nbsp; *Lasemaine.fr 2017 : FLUP 20-24 mars*, Porto, Universidade de Porto. Faculdade de Letras, 2018 ([pdf]( http://ler.letras.up.pt/uploads/ficheiros/16124.pdf ))
 
 
 #### <span style="color:#47bec7">Book Reviews</span>
@@ -42,4 +45,4 @@ While many studies in translingualism focus on the interaction between several l
     &nbsp;&nbsp;&nbsp;&nbsp;*AmeriQuests: Nature, Law and Society*&nbsp; 11:1, 2014 ([link]( http://www.ameriquests.org/index.php/ameriquests/article/view/3924 )) 
 
 “Book Review: *Gender in Late Medieval and Early Modern Europe.* ed. by M. G. Murayeva, R. M. Toivo.”   
-    &nbsp;&nbsp;&nbsp;&nbsp;*MLN*, vol. 129 no. 5, pp. 1244-1247, 2014
+    &nbsp;&nbsp;&nbsp;&nbsp;*MLN*, vol. 129 no. 5, 2014

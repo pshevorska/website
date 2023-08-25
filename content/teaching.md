@@ -3,6 +3,16 @@ title = "Wesleyan University Department of Romance Languages and Literatures"
 tagline = "Liana Pshevorska"
 +++
 
+#### <span style="color:#47bec7">Wesleyan University | Associate Professor of the Practice in French</span>
+
+Elementary French I (FREN101) <span style="float:right;">Fall 2022 | 2023</span><br />
+Elementary French II (FREN102) <span style="float:right;">Spring 2023 | 2024</span><br />
+Intermediate French I (FREN111) <span style="float:right;">Fall 2022</span><br />
+Intermediate French II (FREN112) <span style="float:right;">Spring 2023</span><br />
+French Society in Music from the Roaring Twenties to Today (FREN232) <span style="float:right;">Spring 2024</span><br />
+Perspectives in Arts as Culture: Ukrainian Arts and Language as Resistance (DAN377) <span style="float:right;">Spring 2024 (co-taught)</span>  
+
+
 #### <span style="color:#47bec7">United States Military Academy at West Point | Assistant Professor of French</span>
 
 Elementary French I  <span style="float:right;">Fall 2019 | 2020 | 2021 (course director and instructor)</span><br />
@@ -20,9 +30,6 @@ Pre-Capstone Summer Research <span style="float:right;">Summer 2021</span>
 Beginner French I <span style="float:right;">Fall 2014</span><br />
 Beginner French I <span style="float:right;">Fall 2016</span><br />
 Intermediate/Advanced French <span style="float:right;">Spring 2016 | Fall 2017</span><br />
- 
-- Designed and taught all lessons as the sole instructor while collaborating with a team to ensure quality standards across sections
-- Created activities for Philippe Claudel’s *La petite fille de Monsieur Linh*, introducing students to strategies for reading novel excerpts in a second language for the first time
 
 #### <span style="color:#47bec7">Bryn Mawr College (Institut d’Avignon)<br>Language and Literature Instructor & Assistant to the Director</span>
 
@@ -42,10 +49,6 @@ Grammaire avancée <span style="float:right;">Summers 2016 | 2017</span><br />
 
 Intermediate French I & II <span style="float:right;">Fall 2010 | Spring 2011</span><br />
 Elementary French I & II <span style="float:right;">Summer 2010 | Fall 2009</span><br />
-
-- Taught 8 sections of French language courses, beginner to intermediate, as the sole instructor
-- Designed assessments
-- Created a platform for sharing teaching material for language instructors
  
 #### <span style="color:#47bec7">Private Language School “Rezultat” (Poltava, Ukraine)<br>Instructor of French, English & Professional Development</span>
 

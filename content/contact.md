@@ -9,6 +9,6 @@ tagline = "Liana Pshevorska"
 Liana Pshevorska    
 Department of Romance Languages and Literatures   
 Wesleyan University  
-45 Wyllys Avenue  
+300 High Street, Office 305 
 Middletown, CT 06459  
 860-685-2000
