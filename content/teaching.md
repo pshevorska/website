@@ -15,8 +15,8 @@ Perspectives in Arts as Culture: Ukrainian Arts and Language as Resistance (DAN3
 
 #### <span style="color:#47bec7">United States Military Academy at West Point | Assistant Professor of French</span>
 
-Elementary French I  <span style="float:right;">Fall 2019 | 2020 | 2021 (course director and instructor)</span><br />
-Elementary French II  <span style="float:right;">Spring 2020 | 2021 | 2022 (course director and instructor)</span><br />
+Elementary French I  <span style="float:right;">Fall 2019 | 2020 | 2021</span><br />
+Elementary French II  <span style="float:right;">Spring 2020 | 2021 | 2022</span><br />
 French Literature from Romanticism to Twitterature <span style="float:right;">Spring 2021 | 2022</span><br />
 French Civilization from the Middle Ages to the Belle Époque  <span style="float:right;">Fall 2021</span><br />
 French Society Through Song: Belle Époque to Postmodernity <span style="float:right;">Spring 2022</span><br />

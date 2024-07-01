@@ -3,7 +3,7 @@ title = "Wesleyan University Department of Romance Languages and Literatures"
 tagline = "Liana Pshevorska"
 +++
 
-Liana is an Associate Professor of the Practice in French
+Liana is Associate Professor of the Practice in French
 at the 
 <a href="https://www.wesleyan.edu/romance/index.html" target="_blank">Department of Romance Languages and Literatures</a>
 at 
@@ -13,32 +13,38 @@ She earned her Ph.D. in French from
 following an M.A. in French Studies (2011) and a B.A. in 
 Education (French & Russian, 2009) from the 
 <a href="https://www.arizona.edu" target="_blank">University of Arizona</a>.
-Her research centers on 20th-21st-century translingual literature of French 
+
+Her research centers on 20th-21st century translingual literature of French 
 expression with a focus on migration, multilingualism, and self-writing. 
 Her scholarship has been published in *The French Review*, *Interfrancophonies*, 
-and *The Journal of Literary Multilingualism*. She recently contributed a chapter 
-“L’espace dédalesque de Vassilis Alexakis: errance, (im)mobilité et fabulation 
-dans *L’Enfant grec*” 
-to an edited volume *Vassilis Alexakis: Chemins croisés* (2023) 
-with Presses universitaires de Rennes. 
+*The Journal of Literary Multilingualism*, and in an edited volume on 
+Vassilis Alexakis (Presses Universitaires de Rennes). 
+Her most recent contribution to the special issue of 
+*Contemporary French and Francophone Studies: SITES* is titled 
+"Through the Translingual Lens: Persian Calligraphy in Mana Neyestani’s 
+*L’Araignée de Mashhad*." In this article, she analyzes the intersection 
+of multilingualism and visual modality in a graphic narrative.
 
-Liana is committed to pedagogy and mentoring. Over the past year, she taught 
-Elementary (FREN101-102) and Intermediate (FREN111-112) courses. In addition to 
-the language sequence, during the 2023-24 academic year, she will also co-teach 
-a seminar “Perspectives in Arts as Culture: Ukrainian Arts and Language as 
-Resistance” (Fall 2023) and teach “French Society in Music from the Roaring 
-Twenties to Today” (Spring 2024). Outside the classroom, she serves as House 
-Advisor to the Maison Francophone.
+Liana is committed to pedagogy and student mentoring. 
+Over the last two years, in addition to teaching, she updated the 
+curriculum across several lower-division courses in Wesleyan’s French language program. 
+In Spring 2024, she taught a new advanced seminar entitled 
+"French Society in Music from the Roaring Twenties to Today," which examines 
+French 20th-21st century history through the lens of popular songs. 
+Students analyzed the relationship between significant cultural events and 
+social changes in France and the music of their era, as well as contemporary songs 
+addressing themes like decolonization, gender, social justice, multilingualism, and 
+immigration. Outside the Department of Romance Languages and Literatures, Liana 
+co-taught an interdisciplinary seminar 
+"Perspectives in Arts as Culture: Ukrainian Arts and Language as Resistance" (Fall 2023). 
+Outside the classroom, she serves as House Advisor to the Maison Francophone.
 
 Prior to joining Wesleyan, Liana worked as Assistant Professor of French in the 
 <a href="https://westpoint.edu/academics/academic-departments/foreign-languages" target="_blank">Department of Foreign Languages</a>
 at the 
 <a href="https://westpoint.edu" target="_black">United States Military Academy at West Point</a>, 
 where she taught a range of French courses, served as an academic advisor, and
-was the officer in charge of the French Forum. In her role as Elementary French
-I & II course director, she implemented a new textbook, designed new
-pedagogical materials and provided training and mentorship to junior
-instructors who taught 130 cadets across 8 sections. From 2015 to 2018, Liana
+was the officer in charge of the French Forum. From 2015 to 2018, Liana
 served as a Visiting Instructor in Bryn Mawr College’s summer study abroad
 program (Institut d’Avignon), where she taught francophone literature, grammar,
 and creative writing.
